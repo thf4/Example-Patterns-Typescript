@@ -15,4 +15,4 @@ class Logger {
     }
 }
 const log = Logger.getInstance();
-log.info('dadi');
+log.info('test');
